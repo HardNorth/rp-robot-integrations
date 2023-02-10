@@ -1,0 +1,7 @@
+rp_uuid: rp_api_key
+rp_endpoint: http://docker.local:8080
+rp_launch: "Robot Framework"
+rp_project: default_personal
+rp_launch_attributes: "tag key1:value1 key2:value2"
+rp_launch_doc: "My test launch"
+rp_log_batch_size: 20
