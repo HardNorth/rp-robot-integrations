@@ -1,5 +1,5 @@
 robotframework
-robotframework-reportportal
+robotframework-reportportal>=5.3.1
 robotframework-seleniumlibrary
 webdrivermanager
-PyYAML
+PyYAML # To be able to store variables into a YAML file
